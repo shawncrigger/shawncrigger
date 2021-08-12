@@ -1,6 +1,10 @@
+<img src="https://res.cloudinary.com/crigger-assets/image/upload/v1628775352/assets/images/twitter.jpg" alt="Hi I'm Shawn Crigger!">
+
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Shawn Crigger!
 
 ---
+
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/shawncrigger?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=shawncrigger) 
 
@@ -8,7 +12,10 @@ A Software Engineer specializing in PHP, JavaScript technologies. Professional e
 
 I create tech content, mostly about Web Development and JavaScript, **but** I also talk about other topics than coding. I'd advise you to subscribe to stay up-to-date!
 
-I managed to create an online presence with my [Blog](https://shawn-crigger.xyz), which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge.
+I managed to create an online presence with my [Blog](https://blog.shawn-crigger.com), which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge.
+
+
+You can check out my portfolio at [Portfolio](http://resume.shawn-crigger.com) which I built using Lumen and VueJS mostly to learn VueJS. The source code is in one of my repositories here. 
 
 ---
 
@@ -21,7 +28,7 @@ I managed to create an online presence with my [Blog](https://shawn-crigger.xyz)
 📘 Latest Blog Articles
 
 
-▶ [...more blog articles](https://shawncrigger.xyz)
+▶ [...more blog articles](https://blog.shawncrigger.com)
 
 ---
 
